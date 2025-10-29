@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Readings on MIT OpenCourseWare</title>
+    <link>/resources/readings/</link>
+    <description>Recent content in Readings on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/readings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dynamic Multithreaded Algorithms handout</title>
+      <link>/resources/dynamic-multithreaded-algorithms-handout/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/dynamic-multithreaded-algorithms-handout/data.json</guid>
+      <description>&lt;p&gt;This resource contains information about dynamic multithreaded algorithms.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Readings</title>
+      <link>/pages/readings/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pages/readings/data.json</guid>
+      <description>&lt;p&gt;The table below provides information on the course&amp;rsquo;s reading assignments, which are taken from the course textbook:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mitpress.mit.edu/9780262033848&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;../../images/mp_logo.gif&#34; alt=&#34;Buy at MIT Press&#34;&gt;&lt;/a&gt; Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. &lt;a href=&#34;https://mitpress.mit.edu/9780262033848&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Introduction to Algorithms&lt;/em&gt;&lt;/a&gt;. 3rd ed. MIT Press, 2009. ISBN: 9780262033848.&lt;/p&gt;&#xA;&lt;p&gt;In addition to the assigned course readings, see the list of &lt;a href=&#34;#useful_references/index.html&#34;&gt;useful references&lt;/a&gt; for the course below.&lt;/p&gt;&#xA;&lt;p&gt;&lt;table&gt;&#xA;&#xA;&lt;thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;SES #&#xA;&lt;/th&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;TOPICS&#xA;&lt;/th&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;READINGS&#xA;&lt;/th&gt;&#xA;&lt;/p&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;p&gt;&lt;/thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;L1&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Administrivia&lt;/p&gt;&#xA;&lt;p&gt;Introduction&lt;/p&gt;&#xA;&lt;p&gt;Analysis of Algorithms, Insertion Sort, Mergesort&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Chapters 1-2&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Skip Lists handout</title>
+      <link>/resources/skip-lists-handout/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/skip-lists-handout/data.json</guid>
+      <description>&lt;p&gt;This resource contains lecture notes on Skip lists.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+{
+  "course_title":"Introduction to Algorithms (SMA 5503)",
+  "course_description":"This course teaches techniques for the design and analysis of efficient algorithms, emphasizing methods useful in practice. Topics covered include: sorting; search trees, heaps, and hashing; divide-and-conquer; dynamic programming; amortized analysis; graph algorithms; shortest paths; network flow; computational geometry; number-theoretic algorithms; polynomial and matrix calculations; caching; and parallel computing.\n\nThis course was also taught as part of the [Singapore-MIT Alliance](http://web.mit.edu/sma/) (SMA) programme as course number SMA 5503 (Analysis and Design of Algorithms).\n",
+  "course_description_html":"<p>This course teaches techniques for the design and analysis of efficient algorithms, emphasizing methods useful in practice. Topics covered include: sorting; search trees, heaps, and hashing; divide-and-conquer; dynamic programming; amortized analysis; graph algorithms; shortest paths; network flow; computational geometry; number-theoretic algorithms; polynomial and matrix calculations; caching; and parallel computing.</p>\n<p>This course was also taught as part of the <a href=\"http://web.mit.edu/sma/\" target=\"_blank\" rel=\"noopener\">Singapore-MIT Alliance</a> (SMA) programme as course number SMA 5503 (Analysis and Design of Algorithms).</p>\n",
+  "site_uid":"2ffa33c5-5f6c-4da3-a7d6-d5455d54179d",
+  "legacy_uid":"9e6fbb54-8601-d046-b61f-dff90c09f8c9","instructors": [{
+    "first_name":"Charles",
+    "last_name":"Leiserson",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Charles Leiserson"},{
+    "first_name":"Erik",
+    "last_name":"Demaine",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Erik Demaine"}],"department_numbers":["6","18"],
+  "learning_resource_types":["Lecture Videos","Problem Sets with Solutions","Exams with Solutions","Lecture Notes","Programming Assignments with Examples"],
+  "topics":[["Engineering","Computer Science","Algorithms and Data Structures"]],
+  "mit_learn_topics":null,
+  "primary_course_number":"6.046J",
+  "extra_course_numbers":"18.410J",
+  "term":"Fall",
+  "year":"2005",
+  "level":["Undergraduate"],
+  "hide_download":null,
+  "image_src":"./static_resources/f79f55df6aae6289ed44a7170e19acd0_6-046jf05.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"Cover of 6.046J textbook, Introduction to Algorithms, Second Edition, by Cormen, Leiserson, Rivest, and Stein. (Image courtesy of MIT Press.)","draft":false,"file":"/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/f79f55df6aae6289ed44a7170e19acd0_6-046jf05.jpg","file_size":86001,"file_type":"image/jpeg","image_metadata":{"caption":"Cover of 6.046J textbook, _Introduction to Algorithms_, Second Edition, by Cormen, Leiserson, Rivest, and Stein. (Image courtesy of MIT Press.)","credit":"","image-alt":"Cover of the textbook used in this course."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"6-046jf05.jpg","uid":"f79f55df-6aae-6289-ed44-a7170e19acd0","video_files":{"video_thumbnail_file":null},"video_metadata":{"youtube_id":null}}}
+

@@ -1,0 +1,12 @@
+{
+  "title":"Lecture 19: Shortest Paths III: All-pairs Shortest Paths, Matrix Multiplication, Floyd-Warshall, Johnson",
+  "description": "",
+  "file": null,
+  "learning_resource_types": ["Lecture Videos"],
+  "resource_type": "Video",
+  "file_type": null,
+  "youtube_key":  "Sygq1e0xWnM",
+  "captions_file": "/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/6532e1c5ef5f5668b63cbd7b2896fe27_Sygq1e0xWnM.vtt",
+  "transcript_file": "/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/6792814fc66b5436eb389cc6d114e882_Sygq1e0xWnM.pdf",
+  "thumbnail_file": "https://img.youtube.com/vi/Sygq1e0xWnM/default.jpg",
+  "archive_url": "http://www.archive.org/download/MIT6.046JF05MPEG4/ocw-6.046-21nov2005-220k.mp4"}

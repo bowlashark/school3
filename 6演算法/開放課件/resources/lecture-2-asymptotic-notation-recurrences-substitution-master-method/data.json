@@ -1,0 +1,12 @@
+{
+  "title":"Lecture 2: Asymptotic Notation; Recurrences; Substitution, Master Method",
+  "description": "",
+  "file": null,
+  "learning_resource_types": ["Lecture Videos"],
+  "resource_type": "Video",
+  "file_type": null,
+  "youtube_key":  "whjt_N9uYFI",
+  "captions_file": "/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/29d773f24e1b5d39b35969da999fe96d_whjt_N9uYFI.vtt",
+  "transcript_file": "/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/81d240e8db219502712349254cdd5272_whjt_N9uYFI.pdf",
+  "thumbnail_file": "https://img.youtube.com/vi/whjt_N9uYFI/default.jpg",
+  "archive_url": "http://www.archive.org/download/MIT6.046JF05MPEG4/ocw-6.046-12sep2005-220k.mp4"}
