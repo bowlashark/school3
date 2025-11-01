@@ -1,0 +1,2 @@
+git config --global user.name "bowlashark"
+git config --global user.email 212410251@o365.tku.edu.tw
